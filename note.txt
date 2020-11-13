@@ -3,4 +3,8 @@ Tad Carlson is editing this file.
 hi Im owner of this file 
 test tortoise
 
+<<<<<<< HEAD
  from doc always doc
+=======
+ from doc no from desk!!!!
+>>>>>>> 551101bf660aefb21086126c7c2892a0e048c75f
