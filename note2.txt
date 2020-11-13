@@ -4,4 +4,12 @@ i love cat
 i love dog
 >>>>>>> 551101bf660aefb21086126c7c2892a0e048c75f
 
+merge
+
+<<<<<<< HEAD
+i love cat
+=======
+i love dog
+>>>>>>> 551101bf660aefb21086126c7c2892a0e048c75f
+
 main
